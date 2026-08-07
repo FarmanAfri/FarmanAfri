@@ -1,6 +1,6 @@
 # Hi 👋, I'm Farman Afridi
 
-### 💻 Frontend Developer | MERN Stack Learner | Flutter Learner
+### 💻 Frontend Developer | MERN Stack Learner 
 
 🔭 I’m currently working on Frontend Web Development Projects
 
